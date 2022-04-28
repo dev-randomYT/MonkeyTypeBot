@@ -51,7 +51,7 @@ python manual.py
 ~~~
 or
 ~~~
-automatic.py
+python automatic.py
 ~~~
 
 
@@ -70,7 +70,7 @@ python manual.py
 ~~~
 or
 ~~~
-automatic.py
+python automatic.py
 ~~~
 ***
 ## **Still In Early Development Phase**
