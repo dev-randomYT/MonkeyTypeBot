@@ -22,5 +22,56 @@ Practical though still contains minor bugs that only allow support for custom or
 Speed is lesser suspicios though may raise anticheat flags,  
 <img src="random\automatic.png">
 ***
+## **To Use**
+## _With Venv_
+#### In cmd run
+~~~ 
+python -m venv venv
+~~~
+
+#### Then
+~~~
+cd \CURRENT_DIRECTORY\venv\scripts
+~~~
+#### Activate Venv By Typing
+~~~
+activate
+~~~
+#### or 
+~~~
+activate.bat
+~~~
+then 
+~~~
+cd ..\..
+~~~
+Finally run
+~~~
+python manual.py
+~~~
+or
+~~~
+automatic.py
+~~~
+
+
+## _No Venv_
+#### In cmd run
+~~~
+pip install requirements.txt
+~~~
+Then
+~~~
+cd ..\..
+~~~
+Finally run
+~~~
+python manual.py
+~~~
+or
+~~~
+automatic.py
+~~~
+***
 ## **Still In Early Development Phase**
 ### Please Report Any Bugs
