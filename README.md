@@ -23,7 +23,7 @@ Speed is lesser suspicios though may raise anticheat flags,
 <img src="random\automatic.png">
 ***
 ## **To Use**
-## _With Venv_
+## _With Venv (Reccomended)_
 #### In cmd run
 ~~~ 
 python -m venv venv
@@ -41,11 +41,17 @@ activate
 ~~~
 activate.bat
 ~~~
-then 
+#### then 
 ~~~
 cd ..\..
 ~~~
-Finally run
+
+#### next
+~~~
+pip install requirements.txt
+~~~
+
+#### Finally run
 ~~~
 python manual.py
 ~~~
@@ -59,10 +65,6 @@ python automatic.py
 #### In cmd run
 ~~~
 pip install requirements.txt
-~~~
-Then
-~~~
-cd ..\..
 ~~~
 Finally run
 ~~~
