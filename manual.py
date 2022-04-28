@@ -4,7 +4,7 @@ import keyboard as kb
 
 t.sleep(4)
 
-text = "The headache wouldn't go away. She's taken medicine but even that didn't help. The monstrous throbbing in her head continued. She had this happen to her only once before in her life and she realized that only one thing could be happening."
+text = "The quick brown fox jumps over the lazy dog"
 
 charList = [i for i in text]
 

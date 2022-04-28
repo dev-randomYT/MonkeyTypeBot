@@ -8,10 +8,11 @@ By dev_randomYT
 ***
 ### Manual
 You have to manually type in the words which takes a long time,  
-Average of 11000 or more WPM,   
+Average of 10000 WPM,   
 Uses keyboard to type at an uncontrollabe speed.  
 Impractical though works on all typing websites.  
-Speed makes it suspicious
+Speed makes it suspicious  
+<img src="random\manual.png">
 ***
 ### Automatic
 Opens Monkey Type and allows 7 seconds to choose mode.  
@@ -19,6 +20,7 @@ Average of 1500 WPM,
 Uses Keyboard though is limited as program will bug if not,  
 Practical though still contains minor bugs that only allow support for custom or set word runs,  
 Speed is lesser suspicios though may raise anticheat flags,  
+<img src="random\automatic.png">
 ***
 ## **Still In Early Development Phase**
 ### Please Report Any Bugs
